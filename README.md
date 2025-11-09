@@ -7,3 +7,4 @@ Commit link: https://github.com/Rakshitha2224/profiles-app/commit/df7d2565a7e43b
 
 Screenshot name: Screenshot- Hello React
 
+Live link : https://rakshitha2224.github.io/profiles-app/
